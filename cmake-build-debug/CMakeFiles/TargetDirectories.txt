@@ -1,0 +1,3 @@
+C:/Users/SlayerQuestGames/CLionProjects/Trabajo14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/SlayerQuestGames/CLionProjects/Trabajo14/cmake-build-debug/CMakeFiles/Trabajo14.dir
+C:/Users/SlayerQuestGames/CLionProjects/Trabajo14/cmake-build-debug/CMakeFiles/edit_cache.dir
